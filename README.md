@@ -16,10 +16,10 @@
 </p>
 
 <div align="center" >
-Lexington High School '27
+ 
 <br><br>
  
-![Visitor Count](https://komarev.com/ghpvc/?username=mintylemon66&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=mintylemon66&color=53687C)  
  </div>
  
 
