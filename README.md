@@ -6,7 +6,7 @@
 
 ### Hi, I'm Isabella!
 
-I'm a student at Lexington High School doing number theory and computational math. 
+I'm a student at Lexington High School interested in math, linguistics, and AI.
 
 This summer I presented my research comparing five classical integer factorization algorithms at the International Congress of Mathematicians and MAA MathFest. The code and data live in [factorization](https://github.com/mintylemon66/factorization).
 
